@@ -1,2 +1,0 @@
-Order Nr. - is it always LongInteger or can be Text? 
-Order Nr. (internal <-> external)?
